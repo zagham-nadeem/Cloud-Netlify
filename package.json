@@ -1,0 +1,23 @@
+{
+  "name": "cloud-netlify",
+  "version": "1.0.0",
+  "description": "A free functions for testing the api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zagham-nadeem/Cloud-Netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zagham-nadeem/Cloud-Netlify/issues"
+  },
+  "homepage": "https://github.com/zagham-nadeem/Cloud-Netlify#readme",
+  "dependencies": {
+    "@netlify/functions": "^1.0.0"
+  }
+}
